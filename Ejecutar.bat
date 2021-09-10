@@ -1,0 +1,1 @@
+"%LOCALAPPDATA%/Programs/Python/Python38/Python.exe" "%CD%/ver_dispo.py"

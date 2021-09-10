@@ -1,0 +1,15 @@
+paso 1) 
+Instalar Python, con todas las opciones por defecto.
+paso 2)
+clickear  "instalar.bat"
+paso 3)
+Abrir archivo "claves.txt" y poner sin espacios ni nada, el cuil y contraseña que usas para entrar a Mi Argentina
+paso 4)
+Cliqueas "Ejecutar.bat" y listo
+Se va a abrir una pestaña de chrome (webdriver) y va intentar ver el calendario de turnos para la sede de ANAC de Balcarce.
+Si no hay turnos disponibles te va a aparecer una alerta que lo indique. 
+Si hay turnos disponibles se queda abierto y posiblemente tire aglun error... pero podes entrar a pedirlo.
+
+NOTA:
+está pensado para que se ejecute cada una hora.
+Si lo querés ejecutar una sóla vez y repetir manualmente, escribir "False", en el archivo "claves.txt".
