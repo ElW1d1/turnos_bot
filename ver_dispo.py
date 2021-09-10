@@ -38,7 +38,7 @@ def correr():
     
     link = 'https://mi.argentina.gob.ar/turnos/seleccion-turno/974'
     
-    driver = webdriver.Chrome('chromedriver.exe')
+    driver = webdriver.Chrome(os.getcwd()+'\\chromedriver.exe')
     driver.implicitly_wait(20)
     driver.get(link)   
     
